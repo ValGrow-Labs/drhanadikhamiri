@@ -324,63 +324,63 @@ async function seedPosts() {
   console.log('🚀 Starting SEO Pillar Posts seeding into Supabase...');
 
   for (const post of posts) {
-    console.log(\`\n📄 Processing: "\${post.title}" (\${post.slug})...\`);
+    console.log(`\n📄 Processing: "${post.title}" (${post.slug})...`);
 
     // Check if post already exists by slug
-    const checkUrl = \`\${supabaseUrl}/rest/v1/blog_posts?slug=eq.\${encodeURIComponent(post.slug)}&select=id\`;
+    const checkUrl = `${supabaseUrl}/rest/v1/blog_posts?slug=eq.${encodeURIComponent(post.slug)}&select=id`;
     const checkRes = await fetch(checkUrl, {
       method: 'GET',
       headers: {
         'apikey': serviceRoleKey,
-        'Authorization': \`Bearer \${serviceRoleKey}\`,
+        'Authorization': `Bearer ${serviceRoleKey}`,
       },
     });
 
     if (!checkRes.ok) {
-      console.error(\`❌ Failed to check existence for \${post.slug}:\`, await checkRes.text());
+      console.error(`❌ Failed to check existence for ${post.slug}:`, await checkRes.text());
       continue;
     }
 
     const checkData = await checkRes.json();
     if (checkData && checkData.length > 0) {
       const existingId = checkData[0].id;
-      console.log(\`🔄 Post exists (ID: \${existingId}). Updating content...\`);
+      console.log(`🔄 Post exists (ID: ${existingId}). Updating content...`);
 
-      const updateUrl = \`\${supabaseUrl}/rest/v1/blog_posts?id=eq.\${existingId}\`;
+      const updateUrl = `${supabaseUrl}/rest/v1/blog_posts?id=eq.${existingId}`;
       const updateRes = await fetch(updateUrl, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json',
           'apikey': serviceRoleKey,
-          'Authorization': \`Bearer \${serviceRoleKey}\`,
+          'Authorization': `Bearer ${serviceRoleKey}`,
           'Prefer': 'return=representation',
         },
         body: JSON.stringify(post),
       });
 
       if (updateRes.ok) {
-        console.log(\`✅ Successfully updated post: \${post.slug}\`);
+        console.log(`✅ Successfully updated post: ${post.slug}`);
       } else {
-        console.error(\`❌ Update failed for \${post.slug}:\`, await updateRes.text());
+        console.error(`❌ Update failed for ${post.slug}:`, await updateRes.text());
       }
     } else {
-      console.log(\`✨ Post does not exist. Inserting new post...\`);
-      const insertUrl = \`\${supabaseUrl}/rest/v1/blog_posts\`;
+      console.log(`✨ Post does not exist. Inserting new post...`);
+      const insertUrl = `${supabaseUrl}/rest/v1/blog_posts`;
       const insertRes = await fetch(insertUrl, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
           'apikey': serviceRoleKey,
-          'Authorization': \`Bearer \${serviceRoleKey}\`,
+          'Authorization': `Bearer ${serviceRoleKey}`,
           'Prefer': 'return=representation',
         },
         body: JSON.stringify(post),
       });
 
       if (insertRes.ok) {
-        console.log(\`✅ Successfully inserted new post: \${post.slug}\`);
+        console.log(`✅ Successfully inserted new post: ${post.slug}`);
       } else {
-        console.error(\`❌ Insert failed for \${post.slug}:\`, await insertRes.text());
+        console.error(`❌ Insert failed for ${post.slug}:`, await insertRes.text());
       }
     }
   }
