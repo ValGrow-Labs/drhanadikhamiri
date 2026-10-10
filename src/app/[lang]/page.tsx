@@ -55,10 +55,10 @@ export default function Home() {
       {
         '@type': 'Dentist',
         '@id': 'https://drhanadikhamiri.com/#dentist',
-        name: 'Dr. Hanadi Khamiri — Aesthetic Dentist & Clear Aligners Dubai',
+        name: 'Dr. Hanadi Khamiri — Aesthetic Dentist & Invisible Orthodontics Dubai',
         alternateName: 'Dr. Hanadi Khamiri Dental Clinic Al Safa',
         description:
-          'Luxury Aesthetic Dentist in Al Safa, Dubai. Over 11 years of clinical excellence specializing in clear aligners, porcelain veneers, digital smile design, and Guided Biofilm Therapy (GBT).',
+          'Luxury Aesthetic Dentist in Al Safa, Dubai. Over 11 years of clinical excellence specializing in invisible orthodontics, porcelain veneers, digital smile design, and Guided Biofilm Therapy (GBT).',
         url: 'https://drhanadikhamiri.com',
         image: 'https://drhanadikhamiri.com/pic1.webp',
         telephone: ['+971567847844', '+971544432808'],
@@ -94,10 +94,10 @@ export default function Home() {
         availableService: [
           {
             '@type': 'MedicalProcedure',
-            name: 'Clear Aligners',
-            alternateName: 'Clear Aligner Braces',
+            name: 'Invisible Orthodontics',
+            alternateName: 'Invisible Orthodontics',
             description:
-              'Offering bespoke clear aligner therapy and teeth aligners utilizing iTero Lumina 3D digital impressions and instant smile simulation.',
+              'Offering bespoke Invisible Orthodontics and teeth aligners utilizing iTero Lumina 3D digital impressions and instant smile simulation.',
             sameAs: 'https://en.wikipedia.org/wiki/Clear_aligners',
           },
           {
@@ -129,7 +129,7 @@ export default function Home() {
         mainEntity: [
           {
             '@type': 'Question',
-            name: 'What makes Dr. Hanadi Khamiri a trusted clear aligner dentist in Dubai?',
+            name: 'What makes Dr. Hanadi Khamiri a trusted invisible orthodontics dentist in Dubai?',
             acceptedAnswer: {
               '@type': 'Answer',
               text: 'Dr. Hanadi Khamiri has over 11 years of clinical experience. Practicing at Bin Arab Dental Centre in Al Safa, she has successfully crafted over 2,000 bespoke smiles utilizing high-precision iTero Lumina 3D scanning and digital simulation technology.',
@@ -153,15 +153,15 @@ export default function Home() {
           },
           {
             '@type': 'Question',
-            name: 'Does clear aligner treatment hurt?',
+            name: 'Does invisible orthodontics treatment hurt?',
             acceptedAnswer: {
               '@type': 'Answer',
-              text: 'Clear aligner therapy is engineered for maximum comfort. You may feel a slight, temporary pressure for the first day or two when switching to a new set of aligners. This is completely normal and a sign that the clear aligners are actively and gently guiding your teeth into perfect alignment.',
+              text: 'Invisible Orthodontics is engineered for maximum comfort. You may feel a slight, temporary pressure for the first day or two when switching to a new set of aligners. This is completely normal and a sign that the invisible orthodontics are actively and gently guiding your teeth into perfect alignment.',
             },
           },
           {
             '@type': 'Question',
-            name: 'How does the iTero Lumina 3D scanner improve clear aligner outcomes?',
+            name: 'How does the iTero Lumina 3D scanner improve invisible orthodontics outcomes?',
             acceptedAnswer: {
               '@type': 'Answer',
               text: 'The iTero Lumina 3D optical scanner captures ultra-accurate digital models of your teeth in minutes, eliminating uncomfortable traditional molds. It enables instant 3D smile simulations so you can preview your straightened teeth before treatment starts and ensures every custom aligner fits with microscopic accuracy.',
@@ -198,7 +198,7 @@ export default function Home() {
           </div>
           <div className="hero-image-wrapper reveal reveal-right delay-1">
             <div className="hero-img-mask">
-              <Image src="/pic1.webp" alt="Dr. Hanadi Khamiri - Aesthetic Dentist & Clear Aligners in Dubai" id="heroImage" width={800} height={1000} priority style={{ width: '100%', height: '100%', objectFit: 'cover' }} onError={(e) => (e.currentTarget.style.display = 'none')} />
+              <Image src="/pic1.webp" alt="Dr. Hanadi Khamiri - Aesthetic Dentist & Invisible Orthodontics in Dubai" id="heroImage" width={800} height={1000} priority style={{ width: '100%', height: '100%', objectFit: 'cover' }} onError={(e) => (e.currentTarget.style.display = 'none')} />
             </div>
             <div className="hero-accent">
               <div className="hero-accent-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg></div>
@@ -289,7 +289,7 @@ export default function Home() {
 
             <div className="tech-card reveal delay-2" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
               <div style={{ borderRadius: '20px', overflow: 'hidden', aspectRatio: '1/1', backgroundColor: 'var(--ivory)', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '2rem' }}>
-                <Image src="/itero_scanner.webp" alt="iTero Lumina 3D Dental Scanner Dubai for Clear Aligners" width={500} height={500} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                <Image src="/itero_scanner.webp" alt="iTero Lumina 3D Dental Scanner Dubai for Invisible Orthodontics" width={500} height={500} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
               </div>
               <div>
                 <h3 style={{ marginBottom: '0.5rem', fontSize: '1.8rem', color: 'var(--gold)', fontFamily: 'var(--font-serif)' }}>{dict.tech.t2title}</h3>

@@ -53,7 +53,7 @@ What you actually need to know is harder to quantify — but it is knowable.
 
 Every licensed dentist in Dubai holds a DHA (Dubai Health Authority) licence. But the baseline is not the ceiling. Look for postgraduate training, international certifications, or documented specialist experience in the area you need treated.
 
-For aesthetic work specifically — veneers, Clear Aligners, smile design — the gap between a general dentist and one who has done hundreds of aesthetic cases is enormous. Results in aesthetic dentistry are not forgiving of inexperience.
+For aesthetic work specifically — veneers, Invisible Orthodontics, smile design — the gap between a general dentist and one who has done hundreds of aesthetic cases is enormous. Results in aesthetic dentistry are not forgiving of inexperience.
 
 ### 2. Diagnostic Technology
 
@@ -81,7 +81,7 @@ Dr. Hanadi Khamiri practices at Bin Arab Dental Centre on Al Wasl Road in Al Saf
 
 Her clinic uses the iTero Lumina digital scanner for precise impressions and smile simulations, and offers GBT cleaning as a standard hygiene option. Consultations are conducted in both Arabic and English.
 
-Dr. Khamiri specialises in porcelain veneers, clear aligner orthodontics, composite bonding, professional teeth whitening, and full smile design cases. Her patient base includes Dubai residents, expatriates, and international visitors who research their options carefully before booking.
+Dr. Khamiri specialises in porcelain veneers, invisible orthodontics orthodontics, composite bonding, professional teeth whitening, and full smile design cases. Her patient base includes Dubai residents, expatriates, and international visitors who research their options carefully before booking.
 
 ## What a Consultation at Al Safa Should Look Like
 
@@ -101,9 +101,9 @@ If a clinic rushes through any of these steps, that is information worth having.
 
 You can use the booking form on this website or call the clinic directly at +971 567847844 or +971 54 443 2808. The clinic is located at Ferdous Building 4, Al Wasl Road, Al Safa, Dubai.
 
-### Does Dr. Khamiri offer Clear Aligners in Al Safa?
+### Does Dr. Khamiri offer Invisible Orthodontics in Al Safa?
 
-Yes. Clear Aligners are one of Dr. Khamiri's primary treatment areas. The iTero digital scanner used at the clinic produces the precise impressions required for clear aligners and allows patients to see a simulated result before treatment begins.
+Yes. Invisible Orthodontics are one of Dr. Khamiri's primary treatment areas. The iTero digital scanner used at the clinic produces the precise impressions required for invisible orthodontics and allows patients to see a simulated result before treatment begins.
 
 ### What is GBT cleaning and is it available at Bin Arab Dental Centre?
 

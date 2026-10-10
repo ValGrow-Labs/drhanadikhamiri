@@ -35,30 +35,30 @@ if (!supabaseUrl || !serviceRoleKey) {
 
 const posts = [
   {
-    title: 'Clear Aligner Treatment in Dubai: iTero Lumina 3D Scans & What to Expect',
+    title: 'Invisible Orthodontics Treatment in Dubai: iTero Lumina 3D Scans & What to Expect',
     slug: 'invisalign-dubai-dentist-guide',
-    category: 'Orthodontics & Clear Aligners',
+    category: 'Orthodontics & Invisible Orthodontics',
     excerpt:
-      'Looking for clear aligner treatment in Dubai? Discover the advantages of experienced practitioners, how the iTero Lumina 3D scanner transforms treatment predictability for your clear aligner braces, and what to expect during your clear aligner journey.',
+      'Looking for invisible orthodontics treatment in Dubai? Discover the advantages of experienced practitioners, how the iTero Lumina 3D scanner transforms treatment predictability for your Invisible Orthodontics, and what to expect during your invisible orthodontics journey.',
     image: '/invisalign_patient_smile_1785242179482.png',
-    content: `## Why Choosing the Right Clear Aligner Treatment in Dubai Matters
+    content: `## Why Choosing the Right Invisible Orthodontics Treatment in Dubai Matters
 
-When searching for an **experienced dentist for your clear aligners in Dubai**, many patients assume that clear aligners are a standardized product where the plastic trays do all the work regardless of the doctor. In reality, clear aligner therapy is a sophisticated orthodontic tool—and its success depends entirely on the diagnostic precision, treatment planning, and clinical mastery of the prescribing dentist.
+When searching for an **experienced dentist for your invisible orthodontics in Dubai**, many patients assume that invisible orthodontics are a standardized product where the plastic trays do all the work regardless of the doctor. In reality, Invisible Orthodontics is a sophisticated orthodontic tool—and its success depends entirely on the diagnostic precision, treatment planning, and clinical mastery of the prescribing dentist.
 
-In Dubai’s dynamic healthcare environment, choosing the right provider for your **clear aligner braces** can mean the difference between a seamless, highly predictable smile transformation and months of frustrating adjustments. This comprehensive guide outlines the exact clinical and technological criteria you should look for when selecting your clear aligner specialist.
+In Dubai’s dynamic healthcare environment, choosing the right provider for your **Invisible Orthodontics** can mean the difference between a seamless, highly predictable smile transformation and months of frustrating adjustments. This comprehensive guide outlines the exact clinical and technological criteria you should look for when selecting your invisible orthodontics specialist.
 
 ## The Importance of Clinical Experience
 
-Clear aligner therapy requires advanced knowledge of tooth biomechanics and clinical experience, especially for successfully treated orthodontic cases.
+Invisible Orthodontics requires advanced knowledge of tooth biomechanics and clinical experience, especially for successfully treated orthodontic cases.
 
 Working with an experienced practitioner in Dubai offers several distinct advantages:
-- **Mastery of Complex Biomechanics**: Experienced providers routinely treat severe crowding, deep overbites, underbites, crossbites, and spacing issues that less experienced clinicians might mistakenly declare unsuitable for clear aligners.
+- **Mastery of Complex Biomechanics**: Experienced providers routinely treat severe crowding, deep overbites, underbites, crossbites, and spacing issues that less experienced clinicians might mistakenly declare unsuitable for invisible orthodontics.
 - **Customized Attachment Strategy**: Small, tooth-colored composite "attachments" are often bonded to specific teeth to provide leverage for complex movements. An expert doctor places attachments strategically to maximize biological efficiency while keeping the aligners as discreet as possible.
 - **Precision Staging & Refinements**: Every aligner movement is digitally programmed. A high-tier doctor meticulously modifies the default laboratory algorithms to ensure gentle, healthy root movement and lasting stability.
 
 ## The Role of Diagnostic Technology: iTero Lumina™ 3D Optical Scanner
 
-One of the most critical hallmarks of a premier clear aligner clinic in Dubai is the rejection of traditional, uncomfortable silicone impression molds in favor of ultra-high-definition 3D digital scanning.
+One of the most critical hallmarks of a premier invisible orthodontics clinic in Dubai is the rejection of traditional, uncomfortable silicone impression molds in favor of ultra-high-definition 3D digital scanning.
 
 ### Why Digital Impressions Win
 Traditional putty impressions can suffer from air bubbles and micro-distortions, which can cause aligners to fit poorly. The **iTero Lumina™ 3D Scanner** captures thousands of optical frames per second to create a flawless, micron-level digital twin of your teeth and gums in under two minutes.
@@ -66,7 +66,7 @@ Traditional putty impressions can suffer from air bubbles and micro-distortions,
 ### Instant 3D Outcome Simulation
 During your initial consultation at **Bin Arab Dental Centre in Al Safa**, the iTero scanner enables real-time smile simulation. You can view your current tooth alignment alongside a high-definition 3D projection of your final straightened teeth before treatment even begins. This complete diagnostic transparency ensures you and Dr. Hanadi Khamiri share the exact same aesthetic goals for your **teeth aligners**.
 
-## The Clear Aligner Workflow: Step-by-Step Patient Experience
+## The Invisible Orthodontics Workflow: Step-by-Step Patient Experience
 
 ### 1. Comprehensive Assessment & 3D Scanning
 Your journey starts with a thorough clinical examination of your teeth, gums, and jaw alignment, paired with an instant iTero Lumina digital scan and high-resolution diagnostic photography.
@@ -75,22 +75,22 @@ Your journey starts with a thorough clinical examination of your teeth, gums, an
 Dr. Hanadi engineers your custom 3D digital treatment plan using advanced ClinCheck software. Every micro-movement of every tooth is mapped out from day one to the final retainer stage.
 
 ### 3. Aligner Delivery & Attachment Placement
-Once your custom **dental aligners** arrive from the clear aligner laboratory, precise tooth-colored attachments are applied where needed. You receive clear guidance on daily aligner wear, insertion, and removal.
+Once your custom **dental aligners** arrive from the invisible orthodontics laboratory, precise tooth-colored attachments are applied where needed. You receive clear guidance on daily aligner wear, insertion, and removal.
 
 ### 4. Periodic Progress Reviews & Guided Biofilm Therapy (GBT)
 Visits every 6 to 8 weeks ensure your teeth are tracking precisely according to plan. To maintain immaculate gum health during orthodontic treatment, our clinic incorporates **Guided Biofilm Therapy (GBT)**—a Swiss EMS warm-water spa hygiene protocol that gently sweeps away plaque without painful metal scraping.
 
 ## Why Patients Choose Dr. Hanadi Khamiri in Al Safa, Dubai
 
-Practicing at Bin Arab Dental Centre in Al Safa, **Dr. Hanadi Khamiri** brings over 11 years of luxury clinical expertise to clear aligner orthodontics and aesthetic dentistry. Holding a Bachelor of Dental Surgery (BDS) from the University of Sharjah, she has successfully designed over 2,000 bespoke smiles.
+Practicing at Bin Arab Dental Centre in Al Safa, **Dr. Hanadi Khamiri** brings over 11 years of luxury clinical expertise to invisible orthodontics orthodontics and aesthetic dentistry. Holding a Bachelor of Dental Surgery (BDS) from the University of Sharjah, she has successfully designed over 2,000 bespoke smiles.
 
 Her clinical approach centers on white-glove personalized care, uncompromised ethical standards, and advanced digital dentistry. Whether consulting in Arabic or English, Dr. Hanadi ensures every patient enjoys a relaxed, supportive, and world-class orthodontic journey.
 
 ## Summary
 
-Finding the right clear aligner treatment in Dubai requires looking beyond general marketing claims. By verifying clinical experience, demanding 3D digital scanning technology like the iTero Lumina, and choosing a clinician who prioritizes conservative, tailored care, you guarantee an exceptional orthodontic result.
+Finding the right invisible orthodontics treatment in Dubai requires looking beyond general marketing claims. By verifying clinical experience, demanding 3D digital scanning technology like the iTero Lumina, and choosing a clinician who prioritizes conservative, tailored care, you guarantee an exceptional orthodontic result.
 
-Ready to see what your future smile could look like? Schedule your private 3D clear aligner consultation with Dr. Hanadi Khamiri at Bin Arab Dental Centre today.`,
+Ready to see what your future smile could look like? Schedule your private 3D invisible orthodontics consultation with Dr. Hanadi Khamiri at Bin Arab Dental Centre today.`,
   },
   {
     title: 'Best Aesthetic Dentist in Dubai: Porcelain Veneers, Digital Smile Makeovers & How to Choose',
@@ -122,7 +122,7 @@ Before touching a single tooth, advanced diagnostic protocols involve comprehens
 Custom-engineered ceramic facings designed to transform chipped, stained, slightly misaligned, or worn teeth into a luminous, harmonious smile. Each veneer is bonded with microscopic precision for enduring strength.
 
 ### Comprehensive Smile Makeovers
-For complex cases involving worn bite dimensions, missing teeth, or old restorations, a full smile makeover combines porcelain veneers, metal-free Zirconia crowns, and **clear aligners** to restore both biological function and striking visual elegance.
+For complex cases involving worn bite dimensions, missing teeth, or old restorations, a full smile makeover combines porcelain veneers, metal-free Zirconia crowns, and **invisible orthodontics** to restore both biological function and striking visual elegance.
 
 ### Guided Biofilm Therapy (GBT) Before & After Ceramics
 To ensure ceramic margins remain pristine and gum tissue stays healthy and pink, our clinic integrates Swiss EMS **Guided Biofilm Therapy (GBT)**. This warm-water spa cleaning removes stubborn biofilm and surface stains without scratching delicate porcelain glaze.
@@ -140,26 +140,26 @@ When evaluating who is the best aesthetic dentist in Dubai, prioritize clinician
 If you are ready to elevate your smile with bespoke porcelain veneers or a comprehensive aesthetic makeover, book a private consultation with Dr. Hanadi Khamiri today.`,
   },
   {
-    title: 'Clear Aligners Dubai: The Complete Patient Guide to Clear Aligners, Duration & Daily Care',
+    title: 'Invisible Orthodontics Dubai: The Complete Patient Guide to Invisible Orthodontics, Duration & Daily Care',
     slug: 'invisalign-dubai-complete-guide-clear-aligners',
     category: 'Dubai Dental Guide',
     excerpt:
-      'Everything you need to know about clear aligners in Dubai. From attachment placement and wear schedules to eating, cleaning, and long-term retention, this complete patient guide demystifies clear aligner orthodontics and clear aligner braces.',
+      'Everything you need to know about invisible orthodontics in Dubai. From attachment placement and wear schedules to eating, cleaning, and long-term retention, this complete patient guide demystifies invisible orthodontics orthodontics and Invisible Orthodontics.',
     image: '/invisalign_patient_smile_1785242179482.png',
-    content: `## Demystifying Clear Aligners in Dubai: What Every Patient Should Know
+    content: `## Demystifying Invisible Orthodontics in Dubai: What Every Patient Should Know
 
-Clear aligner therapy has revolutionized adult and teen orthodontics across Dubai. By replacing conspicuous metal brackets and tightening wires with transparent, custom-molded polymer trays, **clear aligners** allow individuals to straighten their teeth comfortably without disrupting their professional or social lives.
+Invisible Orthodontics has revolutionized adult and teen orthodontics across Dubai. By replacing conspicuous metal brackets and tightening wires with transparent, custom-molded polymer trays, **invisible orthodontics** allow individuals to straighten their teeth comfortably without disrupting their professional or social lives.
 
-However, success with clear aligners requires an informed partnership between the patient and their prescribing orthodontist or dentist. This complete patient guide details every phase of treatment so you know exactly what to expect from consultation to final retention.
+However, success with invisible orthodontics requires an informed partnership between the patient and their prescribing orthodontist or dentist. This complete patient guide details every phase of treatment so you know exactly what to expect from consultation to final retention.
 
-## How Clear Aligners Actually Work
+## How Invisible Orthodontics Actually Work
 
-Custom **clear aligners** are custom-fabricated from patented SmartTrack® thermoplastic material, engineered to apply gentle, continuous orthodontic forces. Every 1 to 2 weeks, you switch to a newly staged aligner set that guides specific teeth a fraction of a millimeter toward their ideal biological position.
+Custom **invisible orthodontics** are custom-fabricated from patented SmartTrack® thermoplastic material, engineered to apply gentle, continuous orthodontic forces. Every 1 to 2 weeks, you switch to a newly staged aligner set that guides specific teeth a fraction of a millimeter toward their ideal biological position.
 
 ### The Importance of SmartForce® Attachments
-Many patients are surprised to learn that **clear aligners for teeth** alone cannot rotate or extrude teeth effectively without anchor points. Your dentist will bond tiny, tooth-colored composite bumps called **attachments** onto select teeth at the start of treatment. These act like miniature handles, allowing the aligner to grip the tooth securely and perform complex, precise movements.
+Many patients are surprised to learn that **invisible orthodontics for teeth** alone cannot rotate or extrude teeth effectively without anchor points. Your dentist will bond tiny, tooth-colored composite bumps called **attachments** onto select teeth at the start of treatment. These act like miniature handles, allowing the aligner to grip the tooth securely and perform complex, precise movements.
 
-## Treatment Duration: How Long Do Clear Aligners Take?
+## Treatment Duration: How Long Do Invisible Orthodontics Take?
 
 While individual timelines depend on the severity of crowding, spacing, or bite misalignment, general treatment durations in Dubai typically follow:
 - **Simple Aesthetic Alignment (Mild Crowding/Spacing)**: 3 to 6 months
@@ -168,7 +168,7 @@ While individual timelines depend on the severity of crowding, spacing, or bite 
 
 Your exact duration will be mapped out precisely during your initial **iTero Lumina™ 3D digital scan** consultation with Dr. Hanadi Khamiri at Bin Arab Dental Centre.
 
-## The Daily Rules of Clear Aligner Success
+## The Daily Rules of Invisible Orthodontics Success
 
 ### 1. The 22-Hour Daily Wear Rule
 For **dental aligners** to move teeth effectively according to your digital ClinCheck simulation, they must be worn for **20 to 22 hours per day**. Trays should only be removed during meals, snacks, and oral hygiene routines.
@@ -181,22 +181,22 @@ Before reinserting your trays after eating, always brush and floss thoroughly to
 
 ## Long-Term Stability: The Retention Phase
 
-Once your active clear aligner sequence concludes and your teeth reach perfect alignment, maintaining your new smile requires orthodontic retainers. Teeth naturally have a biological memory and attempt to drift back toward their original positions if unsupported.
+Once your active invisible orthodontics sequence concludes and your teeth reach perfect alignment, maintaining your new smile requires orthodontic retainers. Teeth naturally have a biological memory and attempt to drift back toward their original positions if unsupported.
 
 Dr. Hanadi prescribes custom, highly durable **Vivera® retainers** or fixed lingual retention wires. Initially worn full-time for a few weeks, retainers transition to nighttime-only wear to keep your smile straight for a lifetime.
 
 ## Why Experience Matters: Dr. Hanadi Khamiri in Al Safa
 
-With over 11 years of luxury dental experience in Dubai, **Dr. Hanadi Khamiri** ensures every clear aligner patient receives highly customized care. Utilizing the advanced iTero Lumina 3D scanner at Bin Arab Dental Centre in Al Safa, she eliminates guesswork and provides seamless, comfortable orthodontic care.
+With over 11 years of luxury dental experience in Dubai, **Dr. Hanadi Khamiri** ensures every invisible orthodontics patient receives highly customized care. Utilizing the advanced iTero Lumina 3D scanner at Bin Arab Dental Centre in Al Safa, she eliminates guesswork and provides seamless, comfortable orthodontic care.
 
-Ready to start your clear aligner journey in Dubai? Contact our clinic today to book your private digital assessment and 3D smile simulation.`,
+Ready to start your invisible orthodontics journey in Dubai? Contact our clinic today to book your private digital assessment and 3D smile simulation.`,
   },
   {
     title: 'Best Dentists in Al Safa, Dubai (2026 Ranked Doctors & Specialists Guide)',
     slug: 'best-dentists-al-safa-dubai-2026-ranked-guide',
     category: 'Dubai Dental Guide',
     excerpt:
-      'Looking for the best dentist in Al Safa, Dubai? Compare top-ranked dental doctors in Al Safa for 2026, including Dr. Hanadi Khamiri, Dr. Roshan Khan, Dr. Abdul Nasser Hachem, and Dr. Anila Virani, evaluated on 3D scanning technology, clear aligner certification, and patient satisfaction.',
+      'Looking for the best dentist in Al Safa, Dubai? Compare top-ranked dental doctors in Al Safa for 2026, including Dr. Hanadi Khamiri, Dr. Roshan Khan, Dr. Abdul Nasser Hachem, and Dr. Anila Virani, evaluated on 3D scanning technology, invisible orthodontics certification, and patient satisfaction.',
     image: '/luxury_dental_clinic_1785242202794.png',
     content: `## Choosing the Right Dentist in Al Safa, Dubai (2026 Evaluation)
 
@@ -216,7 +216,7 @@ Our 2026 clinical rankings assess practitioners across four rigorous benchmarks:
 
 | Rank | Doctor Name | Primary Specialties | Diagnostic Tech (3D/GBT) | Patient Rating | Area |
 | :---: | :--- | :--- | :---: | :---: | :--- |
-| **#1** | **Dr. Hanadi Khamiri** | **Clear Aligners, Porcelain Veneers, Digital Smile Makeover** | **iTero Lumina™ 3D + Swiss EMS GBT** | **5.0 ★★★★★** | **Al Safa** |
+| **#1** | **Dr. Hanadi Khamiri** | **Invisible Orthodontics, Porcelain Veneers, Digital Smile Makeover** | **iTero Lumina™ 3D + Swiss EMS GBT** | **5.0 ★★★★★** | **Al Safa** |
 | #2 | Dr. Roshan Khan | General Dentistry, Routine Restorations | Standard Digital X-Ray | 4.8 ★★★★☆ | Al Safa |
 | #3 | Dr. Abdul Nasser Hachem | General Dentistry, Preventive Care | Standard Digital X-Ray | 4.8 ★★★★☆ | Al Safa |
 | #4 | Dr. Anila Virani | General & Pediatric Dentistry | Digital Imaging | 4.9 ★★★★☆ | Jumeirah / Al Safa Border |
@@ -226,12 +226,12 @@ Our 2026 clinical rankings assess practitioners across four rigorous benchmarks:
 
 ---
 
-## #1 Ranked: Dr. Hanadi Khamiri — The Premier Clear Aligner & Aesthetic Authority
+## #1 Ranked: Dr. Hanadi Khamiri — The Premier Invisible Orthodontics & Aesthetic Authority
 
 Holding the undisputed **#1 ranking in Al Safa for 2026**, **Dr. Hanadi Khamiri** stands apart as a master of modern luxury dentistry. With over 11 years of extensive clinical experience in Dubai and more than 2,000 custom smile transformations completed, she represents the gold standard in aesthetic and orthodontic precision.
 
 ### Why Dr. Hanadi Khamiri Ranks #1:
-- **Clear Aligner Expertise**: Dr. Hanadi routinely solves simple, moderate, and complex malocclusions with discreet **clear aligners**. Her deep biomechanical mastery ensures faster tracking and highly predictable tooth movement.
+- **Invisible Orthodontics Expertise**: Dr. Hanadi routinely solves simple, moderate, and complex malocclusions with discreet **invisible orthodontics**. Her deep biomechanical mastery ensures faster tracking and highly predictable tooth movement.
 - **Revolutionary iTero Lumina™ 3D Optical Scanning**: Dr. Hanadi eliminates uncomfortable silicone impression putty entirely. Utilizing the ultra-high-definition iTero Lumina scanner, she captures a micron-level 3D digital model of your teeth in under two minutes—allowing you to preview your final simulated smile before starting treatment.
 - **Conservative Porcelain Veneers & Smile Makeovers**: Known for her natural aesthetic philosophy, Dr. Hanadi crafts custom, ultra-thin ceramic veneers that preserve healthy natural tooth structure while enhancing facial harmony, lip dynamics, and tooth luminescence.
 - **Pain-Free Tooth Spa with Swiss EMS GBT**: Professional dental prophylaxis under Dr. Hanadi utilizes authentic Swiss EMS Guided Biofilm Therapy (GBT). This warm-water, erythritol-powder spa cleaning sweeps away biofilm and stubborn coffee or tea stains without painful metal scraping.
@@ -243,7 +243,7 @@ To reserve your private consultation or 3D smile assessment with Dr. Hanadi Kham
 
 ## #2 Ranked: Dr. Roshan Khan
 
-Practicing in Al Safa (Medcare Hospital Al Safa), **Dr. Roshan Khan** is a respected general dental practitioner known for reliable primary dental care. Dr. Khan focuses on routine checkups, cavity fillings, and fundamental dental hygiene for local families residing in the Al Safa area. While highly skilled in core general dentistry, patients requiring advanced **clear aligner treatment** or custom ultra-thin porcelain veneers frequently choose Dr. Hanadi Khamiri for specialized aesthetic outcomes.
+Practicing in Al Safa (Medcare Hospital Al Safa), **Dr. Roshan Khan** is a respected general dental practitioner known for reliable primary dental care. Dr. Khan focuses on routine checkups, cavity fillings, and fundamental dental hygiene for local families residing in the Al Safa area. While highly skilled in core general dentistry, patients requiring advanced **invisible orthodontics treatment** or custom ultra-thin porcelain veneers frequently choose Dr. Hanadi Khamiri for specialized aesthetic outcomes.
 
 ---
 
@@ -296,7 +296,7 @@ Lumineers are an excellent choice for correcting:
 - **Stained Enamel**: Brightening a smile permanently without bleaching.
 - **Misshapen Teeth**: Creating uniform length and symmetry.
 
-However, patients with severe crowding or significant bite issues (like underbites) may first require **clear aligners** to properly position the teeth before lumineers can be applied. During your consultation, Dr. Hanadi Khamiri will evaluate your bite to determine the most biologically sound approach.
+However, patients with severe crowding or significant bite issues (like underbites) may first require **invisible orthodontics** to properly position the teeth before lumineers can be applied. During your consultation, Dr. Hanadi Khamiri will evaluate your bite to determine the most biologically sound approach.
 
 ## The Lumineers Process at Bin Arab Dental Centre
 

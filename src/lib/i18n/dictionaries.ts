@@ -18,12 +18,12 @@ export const dictionaries = {
       badge: "Jumeirah's Finest",
     },
     marquee: [
-      'Clear Aligner Dentist Dubai',
+      'Invisible Orthodontics Dentist Dubai',
       'Lumineers in Dubai',
       'Clear Teeth Aligners',
       'Aesthetic Dentist Dubai',
       'Porcelain Veneers Dubai',
-      'Clear Aligner Dentist Dubai',
+      'Invisible Orthodontics Dentist Dubai',
       'Lumineers in Dubai',
       'Clear Teeth Aligners',
       'Aesthetic Dentist Dubai',
@@ -43,7 +43,7 @@ export const dictionaries = {
       h2: 'The Art of ',
       h2span: 'Modern Dentistry',
       p1: 'Welcome to a space where clinical precision meets unparalleled luxury. I am Dr. Hanadi Khamiri, dedicated to designing smiles that reflect your true confidence, utilizing the absolute latest advancements in aesthetic dentistry.',
-      p2: 'Serving as the Senior Dentist and Clinic Manager at Bin Arab Dental Centre in Al Safa, I specialize in ultra-thin porcelain veneers, advanced clear aligner therapy, and comprehensive aesthetic restorations. My philosophy is rooted in highly personalized, gentle care—ensuring every patient enjoys a seamless, world-class experience from the moment they arrive.',
+      p2: 'Serving as the Senior Dentist and Clinic Manager at Bin Arab Dental Centre in Al Safa, I specialize in ultra-thin porcelain veneers, advanced Invisible Orthodontics, and comprehensive aesthetic restorations. My philosophy is rooted in highly personalized, gentle care—ensuring every patient enjoys a seamless, world-class experience from the moment they arrive.',
       bds: 'BDS\nUNIVERSITY OF SHARJAH',
     },
     services: {
@@ -52,8 +52,8 @@ export const dictionaries = {
       consult: 'Consult Now',
       c1title: 'Aesthetic Veneers & Lumineers',
       c1desc: 'Custom-crafted, ultra-thin porcelain veneers and Lumineers by an experienced aesthetic dentist in Dubai, correcting imperfections for a flawless, natural celebrity smile.',
-      c2title: 'Clear Aligners',
-      c2desc: 'Discreetly straighten your teeth with clear aligners and predictive iTero Lumina 3D simulation.',
+      c2title: 'Invisible Orthodontics',
+      c2desc: 'Discreetly straighten your teeth with invisible orthodontics and predictive iTero Lumina 3D simulation.',
       c3title: 'Ceramic Crowns',
       c3desc: 'Restore the strength, function, and aesthetics of damaged teeth with premium, highly durable ceramic restorations.',
       c4title: 'Aesthetic Fillings',
@@ -82,7 +82,7 @@ export const dictionaries = {
     },
     faqs: [
       {
-        q: 'What makes Dr. Hanadi Khamiri a trusted clear aligner dentist in Dubai?',
+        q: 'What makes Dr. Hanadi Khamiri a trusted invisible orthodontics dentist in Dubai?',
         a: 'Dr. Hanadi Khamiri has over 11 years of clinical experience. Practicing at Bin Arab Dental Centre in Al Safa, she has designed over 2,000 bespoke smiles using advanced iTero Lumina 3D scanning and instant outcome simulations.',
       },
       {
@@ -94,8 +94,8 @@ export const dictionaries = {
         a: 'While not strictly permanent, high-quality porcelain veneers typically last 10 to 15 years—and often longer—with proper care, excellent oral hygiene, and regular professional check-ups.',
       },
       {
-        q: 'Does clear aligner treatment hurt?',
-        a: 'Clear aligner therapy is designed for maximum comfort. You may feel a slight, temporary pressure for the first day or two when switching to a new set of aligners. This is completely normal and a sign that the clear aligners are actively and gently moving your teeth.',
+        q: 'Does invisible orthodontics treatment hurt?',
+        a: 'Invisible Orthodontics is designed for maximum comfort. You may feel a slight, temporary pressure for the first day or two when switching to a new set of aligners. This is completely normal and a sign that the invisible orthodontics are actively and gently moving your teeth.',
       },
       {
         q: 'How do I prepare for my first consultation?',

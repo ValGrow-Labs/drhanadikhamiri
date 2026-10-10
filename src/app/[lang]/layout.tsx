@@ -31,19 +31,19 @@ export async function generateMetadata(props: { params: Promise<{ lang: string }
     title: {
       default: isAr 
         ? 'د. هنادي خميري | طبيبة تجميل أسنان وتقويم شفاف في دبي'
-        : 'Dr. Hanadi Khamiri | Aesthetic Dentist & Clear Aligners in Dubai',
+        : 'Dr. Hanadi Khamiri | Aesthetic Dentist & Invisible Orthodontics in Dubai',
       template: isAr 
         ? '%s | د. هنادي خميري — عيادة أسنان في دبي'
         : '%s | Dr. Hanadi Khamiri — Dubai Dental Clinic',
     },
     description: isAr
       ? 'مقدم معتمد للتقويم الشفاف ودكتور تجميل أسنان في دبي. تخصص في التقويم الشفاف، ابتسامة هوليود، الفينيير واللومينير في الصفا، دبي.'
-      : 'Aesthetic Dentist in Dubai. Specializing in clear aligners, porcelain veneers, digital smile design, and Lumineers in Al Safa, Dubai.',
+      : 'Aesthetic Dentist in Dubai. Specializing in invisible orthodontics, porcelain veneers, digital smile design, and Lumineers in Al Safa, Dubai.',
     keywords: [
       'Aesthetic Dentist in Dubai',
-      'Clear Aligner Doctor Dubai',
-      'Clear Aligners Dubai',
-      'Clear Aligner Braces Dubai',
+      'Invisible Orthodontics Doctor Dubai',
+      'Invisible Orthodontics Dubai',
+      'Invisible Orthodontics Dubai',
       'Porcelain Veneers Dubai',
       'Smile Makeover Dubai',
       'Dental Clinic Al Safa',
@@ -81,7 +81,7 @@ export async function generateMetadata(props: { params: Promise<{ lang: string }
       url: `https://drhanadikhamiri.com/${params.lang}`,
       title: isAr
         ? 'د. هنادي خميري | طبيبة تجميل أسنان وتقويم شفاف في دبي'
-        : 'Dr. Hanadi Khamiri | Aesthetic Dentist & Clear Aligners Dubai',
+        : 'Dr. Hanadi Khamiri | Aesthetic Dentist & Invisible Orthodontics Dubai',
       description: isAr
         ? 'مقدم معتمد للتقويم الشفاف ودكتور تجميل أسنان في دبي.'
         : 'Luxury Aesthetic Dentist in Al Safa, Dubai. Crafting bespoke, natural smiles with digital iTero 3D precision and 11+ years of excellence.',
@@ -91,7 +91,7 @@ export async function generateMetadata(props: { params: Promise<{ lang: string }
           url: '/newhero_image.jpeg',
           width: 1200,
           height: 630,
-          alt: 'Dr. Hanadi Khamiri — Aesthetic Dentist & Clear Aligners in Dubai',
+          alt: 'Dr. Hanadi Khamiri — Aesthetic Dentist & Invisible Orthodontics in Dubai',
         },
       ],
     },
@@ -99,10 +99,10 @@ export async function generateMetadata(props: { params: Promise<{ lang: string }
       card: 'summary_large_image',
       title: isAr
         ? 'د. هنادي خميري | طبيبة تجميل أسنان وتقويم شفاف في دبي'
-        : 'Dr. Hanadi Khamiri | Aesthetic Dentist & Clear Aligners Dubai',
+        : 'Dr. Hanadi Khamiri | Aesthetic Dentist & Invisible Orthodontics Dubai',
       description: isAr
         ? 'مقدم معتمد للتقويم الشفاف ودكتور تجميل أسنان في دبي.'
-        : 'Luxury Aesthetic Dentist in Al Safa, Dubai. Bespoke smile makeovers, porcelain veneers, and clear aligners.',
+        : 'Luxury Aesthetic Dentist in Al Safa, Dubai. Bespoke smile makeovers, porcelain veneers, and invisible orthodontics.',
       images: ['/newhero_image.jpeg'],
     },
     robots: {

@@ -140,7 +140,7 @@ export default async function BlogPostPage({
         '@id': `${siteUrl}#dentist`,
         name: 'Dr. Hanadi Khamiri — Bin Arab Dental Centre',
         description:
-          'Dr. Hanadi Khamiri is a luxury aesthetic and general dentist based in Al Safa, Dubai, with over 11 years of experience in veneers, clear aligners, GBT cleaning, and smile design.',
+          'Dr. Hanadi Khamiri is a luxury aesthetic and general dentist based in Al Safa, Dubai, with over 11 years of experience in veneers, invisible orthodontics, GBT cleaning, and smile design.',
         url: siteUrl,
         telephone: ['+971567847844', '+971544432808'],
         priceRange: '$$$$',
@@ -174,7 +174,7 @@ export default async function BlogPostPage({
         medicalSpecialty: ['Aesthetic Dentistry', 'General Dentistry', 'Orthodontics'],
         availableService: [
           { '@type': 'MedicalProcedure', name: 'Porcelain Veneers' },
-          { '@type': 'MedicalProcedure', name: 'Clear Aligners' },
+          { '@type': 'MedicalProcedure', name: 'Invisible Orthodontics' },
           { '@type': 'MedicalProcedure', name: 'Guided Biofilm Therapy (GBT)' },
           { '@type': 'MedicalProcedure', name: 'Teeth Whitening' },
           { '@type': 'MedicalProcedure', name: 'Smile Design' },
@@ -190,7 +190,7 @@ export default async function BlogPostPage({
       '@id': `${canonicalUrl}#itemlist`,
       name: 'Best Dentists in Al Safa Dubai (2026 Ranked Doctors Guide)',
       description:
-        'Comprehensive 2026 ranking and evaluation of dental specialists in Al Safa, Dubai based on diagnostic 3D technology, clear aligner certification tiers, and patient ratings.',
+        'Comprehensive 2026 ranking and evaluation of dental specialists in Al Safa, Dubai based on diagnostic 3D technology, invisible orthodontics certification tiers, and patient ratings.',
       itemListOrder: 'https://schema.org/ItemListOrderDescending',
       numberOfItems: 7,
       itemListElement: [

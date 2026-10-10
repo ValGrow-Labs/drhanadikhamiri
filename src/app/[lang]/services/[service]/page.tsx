@@ -8,7 +8,7 @@ const servicesMap = {
     ar: { title: 'فينير ولومينير الأسنان في دبي | د. هنادي خميري', desc: 'قشور خزفية رقيقة مخصصة لرفع جمال الابتسامة ببريق طبيعي.' }
   },
   'invisalign-clear-aligners': {
-    en: { title: 'Clear Aligners in Dubai | Dr. Hanadi Khamiri', desc: 'Offering bespoke clear aligner therapy.' },
+    en: { title: 'Invisible Orthodontics in Dubai | Dr. Hanadi Khamiri', desc: 'Offering bespoke Invisible Orthodontics.' },
     ar: { title: 'التقويم الشفاف في دبي | د. هنادي خميري', desc: 'نقدم علاجات مخصصة بالتقويم الشفاف.' }
   },
   'ceramic-crowns': {
