@@ -200,7 +200,7 @@ export default async function BlogPostPage({
           item: {
             '@type': 'Person',
             name: 'Dr. Hanadi Khamiri',
-            jobTitle: 'Certified Clear Aligner Provider & Aesthetic Dentist',
+            jobTitle: 'Aesthetic Dentist',
             url: siteUrl,
             image: `${siteUrl}/newhero_image.jpeg`,
             telephone: ['+971567847844', '+971544432808'],

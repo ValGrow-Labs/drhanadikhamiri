@@ -58,7 +58,7 @@ export default function Home() {
         name: 'Dr. Hanadi Khamiri — Aesthetic Dentist & Clear Aligners Dubai',
         alternateName: 'Dr. Hanadi Khamiri Dental Clinic Al Safa',
         description:
-          'Certified Clear Aligner Provider & Luxury Aesthetic Dentist in Al Safa, Dubai. Over 11 years of clinical excellence specializing in clear aligners, porcelain veneers, digital smile design, and Guided Biofilm Therapy (GBT).',
+          'Luxury Aesthetic Dentist in Al Safa, Dubai. Over 11 years of clinical excellence specializing in clear aligners, porcelain veneers, digital smile design, and Guided Biofilm Therapy (GBT).',
         url: 'https://drhanadikhamiri.com',
         image: 'https://drhanadikhamiri.com/pic1.webp',
         telephone: ['+971567847844', '+971544432808'],
@@ -97,7 +97,7 @@ export default function Home() {
             name: 'Clear Aligners',
             alternateName: 'Clear Aligner Braces',
             description:
-              'Certified Clear Aligner Provider in Dubai offering bespoke clear aligner therapy and teeth aligners utilizing iTero Lumina 3D digital impressions and instant smile simulation.',
+              'Offering bespoke clear aligner therapy and teeth aligners utilizing iTero Lumina 3D digital impressions and instant smile simulation.',
             sameAs: 'https://en.wikipedia.org/wiki/Clear_aligners',
           },
           {
@@ -132,7 +132,7 @@ export default function Home() {
             name: 'What makes Dr. Hanadi Khamiri a trusted clear aligner dentist in Dubai?',
             acceptedAnswer: {
               '@type': 'Answer',
-              text: 'Dr. Hanadi Khamiri is a certified clear aligner provider with over 11 years of clinical experience. Practicing at Bin Arab Dental Centre in Al Safa, she has successfully crafted over 2,000 bespoke smiles utilizing high-precision iTero Lumina 3D scanning and digital simulation technology.',
+              text: 'Dr. Hanadi Khamiri has over 11 years of clinical experience. Practicing at Bin Arab Dental Centre in Al Safa, she has successfully crafted over 2,000 bespoke smiles utilizing high-precision iTero Lumina 3D scanning and digital simulation technology.',
             },
           },
           {

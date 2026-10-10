@@ -12,7 +12,7 @@ export const dictionaries = {
     hero: {
       title: 'Your Smile, ',
       titleSpan: 'Redefined in Dubai',
-      subtitle: 'Dr. Hanadi Khamiri — Certified Clear Aligner Provider with over 11 years of luxury dental expertise in Al Safa. Crafting bespoke, natural smiles with advanced iTero 3D precision.',
+      subtitle: 'Dr. Hanadi Khamiri — Luxury dental expertise with over 11 years of experience in Al Safa. Crafting bespoke, natural smiles with advanced iTero 3D precision.',
       bookBtn: 'Reserve Consultation',
       exploreBtn: 'Explore Treatments',
       badge: "Jumeirah's Finest",
@@ -34,8 +34,8 @@ export const dictionaries = {
       y11sub: 'Years Excellence',
       s2k: '2,000+',
       s2ksub: 'Smiles Designed',
-      top1: 'Certified',
-      top1sub: 'Aligner Provider',
+      top1: 'Clear',
+      top1sub: 'Aligner Therapy',
       star5: '5-Star',
       star5sub: 'Patient Care',
     },
@@ -53,7 +53,7 @@ export const dictionaries = {
       c1title: 'Aesthetic Veneers & Lumineers',
       c1desc: 'Custom-crafted, ultra-thin porcelain veneers and Lumineers by an experienced aesthetic dentist in Dubai, correcting imperfections for a flawless, natural celebrity smile.',
       c2title: 'Clear Aligners',
-      c2desc: 'Certified clear aligner provider in Dubai. Discreetly straighten your teeth with clear aligners and predictive iTero Lumina 3D simulation.',
+      c2desc: 'Discreetly straighten your teeth with clear aligners and predictive iTero Lumina 3D simulation.',
       c3title: 'Ceramic Crowns',
       c3desc: 'Restore the strength, function, and aesthetics of damaged teeth with premium, highly durable ceramic restorations.',
       c4title: 'Aesthetic Fillings',
@@ -83,7 +83,7 @@ export const dictionaries = {
     faqs: [
       {
         q: 'What makes Dr. Hanadi Khamiri a trusted clear aligner dentist in Dubai?',
-        a: 'Dr. Hanadi Khamiri is a certified clear aligner provider with over 11 years of clinical experience. Practicing at Bin Arab Dental Centre in Al Safa, she has designed over 2,000 bespoke smiles using advanced iTero Lumina 3D scanning and instant outcome simulations.',
+        a: 'Dr. Hanadi Khamiri has over 11 years of clinical experience. Practicing at Bin Arab Dental Centre in Al Safa, she has designed over 2,000 bespoke smiles using advanced iTero Lumina 3D scanning and instant outcome simulations.',
       },
       {
         q: 'Why choose Dr. Hanadi Khamiri as your aesthetic dentist in Dubai?',
@@ -150,7 +150,7 @@ export const dictionaries = {
     hero: {
       title: 'ابتسامتك ',
       titleSpan: 'بمفهوم جديد في دبي',
-      subtitle: 'د. هنادي خميري — مقدم معتمد للتقويم الشفاف بخبرة تتجاوز 11 عاماً في الرعاية الفاخرة بالصفا. نصمم ابتسامات طبيعية مخصصة بدقة iTero ثلاثية الأبعاد.',
+      subtitle: 'د. هنادي خميري — طبيبة تجميل أسنان بخبرة تتجاوز 11 عاماً في الرعاية الفاخرة بالصفا. نصمم ابتسامات طبيعية مخصصة بدقة iTero ثلاثية الأبعاد.',
       bookBtn: 'احجز استشارتك الآن',
       exploreBtn: 'تصفح العلاجات',
       badge: 'خبراء جميرا',
@@ -172,8 +172,8 @@ export const dictionaries = {
       y11sub: 'سنة من التميز',
       s2k: '+2,000',
       s2ksub: 'ابتسامة مصممة',
-      top1: 'معتمد',
-      top1sub: 'مقدم للتقويم الشفاف',
+      top1: 'علاج',
+      top1sub: 'التقويم الشفاف',
       star5: '5 نجوم',
       star5sub: 'رعاية فائقة للمرضى',
     },
@@ -191,7 +191,7 @@ export const dictionaries = {
       c1title: 'الفينيير واللومينير التجميلي',
       c1desc: 'قشور خزفية رقيقة وعدسات لومينير مصممة خصيصاً على يد دكتور تجميل أسنان متمرس في دبي لمعالجة العيوب ومنحك ابتسامة نجوم مذهلة.',
       c2title: 'التقويم الشفاف',
-      c2desc: 'مقدم معتمد للتقويم الشفاف في دبي. قوم أسنانك براحة وسرية تامة مع التقويم الشفاف ومحاكاة iTero ثلاثية الأبعاد الدقيقة.',
+      c2desc: 'قوم أسنانك براحة وسرية تامة مع التقويم الشفاف ومحاكاة iTero ثلاثية الأبعاد الدقيقة.',
       c3title: 'التيجان الخزفية (الزيركون)',
       c3desc: 'استعد قوة ووظيفة وجاذبية أسنانك المتضررة مع تركيبات خزفية متطورة وفائقة المتانة.',
       c4title: 'الحشوات التجميلية',
@@ -221,7 +221,7 @@ export const dictionaries = {
     faqs: [
       {
         q: 'ما الذي يميز د. هنادي خميري كطبيبة تقويم شفاف موثوقة في دبي؟',
-        a: 'د. هنادي خميري مقدم معتمد للتقويم الشفاف بخبرة سريرية تتجاوز 11 عاماً. في عيادتها بمركز بن عرب لطب الأسنان في الصفا، صممت بنجاح أكثر من 2000 ابتسامة باستخدام ماسح iTero Lumina ثلاثي الأبعاد ومحاكاة النتيجة الرقمية الفورية.',
+        a: 'د. هنادي خميري تتمتع بخبرة سريرية تتجاوز 11 عاماً. في عيادتها بمركز بن عرب لطب الأسنان في الصفا، صممت بنجاح أكثر من 2000 ابتسامة باستخدام ماسح iTero Lumina ثلاثي الأبعاد ومحاكاة النتيجة الرقمية الفورية.',
       },
       {
         q: 'لماذا تختار د. هنادي خميري كدكتور تجميل أسنان في دبي؟',
